@@ -12,10 +12,10 @@ html, body {
 body {
   font-family: 'Georgia', serif;
   background-color: #fef9f3;
-  background-image: url('../assets/images/bg.jpg'); /* ✅ your path here */
-  background-size: cover;     /* Stretch to fill */
+  background-image: url('assets/images/bg.jpg'); 
+  background-size: cover;     
   background-repeat: no-repeat;
-  background-attachment: fixed; /* Optional: parallax effect */
+  background-attachment: fixed; 
   background-position: center;
   color: #3e3e3e;
   line-height: 1.6;
